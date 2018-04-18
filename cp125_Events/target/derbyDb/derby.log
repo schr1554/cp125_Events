@@ -1,0 +1,15 @@
+Sun Mar 19 20:19:56 PDT 2017 : Apache Derby Network Server - 10.13.1.1 - (1765088) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Mar 19 20:19:56 PDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-e9ba-7a73-00004ee9df7b 
+on database directory memory:C:\Personal\Java 125 A\cp125_Database\target\derbyDb\scgDb with class loader java.net.URLClassLoader@2c0680c6 
+Loaded from file:/C:/Users/chq-alexs.EXPEDITORS/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Personal\Java 125 A\cp125_Database
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=target/derbyDb
+Database Class Loader started - derby.database.classpath=''
+Sun Mar 19 20:20:25 PDT 2017 : Apache Derby Network Server - 10.13.1.1 - (1765088) shutdown

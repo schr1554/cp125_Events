@@ -1,0 +1,15 @@
+com\scg\domain_test\InvoiceLineItemTest.class
+com\scg\domain_test\NameTest.class
+com\scg\util\DateRangeTest.class
+com\scg\util\AddressTest.class
+test\Assignment06Test$TestListener.class
+test\Assignment06Test.class
+com\scg\domain_test\InvoiceFooterTest.class
+com\scg\domain_test\ConsultantTest.class
+com\scg\domain_test\InvoiceTest.class
+com\scg\domain_test\TimeCardTest.class
+com\scg\domain_test\ClientAccountTest.class
+com\scg\domain_test\InvoiceHeaderTest.class
+com\scg\util\TimeCardConsultantComparatorTest.class
+com\scg\util\TimeCardListUtilTest.class
+com\scg\domain_test\ConsultantTimeTest.class
